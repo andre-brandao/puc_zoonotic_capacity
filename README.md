@@ -1,6 +1,6 @@
 # puc_zoonotic_capacity
 
-This project is based on the original work of [Original Paper](https://github.com/HanLabDiseaseEcology/zoonotic_capacity).
+This project is based on the original work of [HanLabDiseaseEcology](https://github.com/HanLabDiseaseEcology/zoonotic_capacity).
 
 
 ## Data
