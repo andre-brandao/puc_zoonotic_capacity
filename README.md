@@ -22,3 +22,4 @@ For more information on the predictor fields, refer to the Supplementary Tables 
 - Support Vector Machine (SVM)
 - Logistic Regression
 - Neural Network
+![img](./image.png)
